@@ -1,0 +1,10 @@
+{
+    "BUTTONS": {
+        "Partner": {
+            "path": "//button[@class='consumerModuleButtons submitButton' and text()='Submit']"
+        },
+        "SignUpSubmit": {
+            "id": "register_signup_button"
+        }
+    }
+}
